@@ -1,4 +1,16 @@
-#home
-{
-  padding-top: 10%;
+a:link {
+    color: #8c8c8c;
+    background-color: transparent;
+    text-decoration: none;
 }
+a:visited {
+    color: #8c8c8c;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #666666;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
